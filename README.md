@@ -13,9 +13,9 @@ H → γ_DP → γ
 ```
 
 Where:
-- $\gamma_{	ext{DP}}$: a transient dark photon traveling at $v > c$,
+- $\gamma_{	ext{DP}}$ : a transient dark photon traveling at $v > c$,
 - which converts into a Standard Model photon inside the detector,
-- producing measurable $\Delta t$) and $\Delta x$ anomalies.
+- producing measurable $\Delta t$ and $\Delta x$ anomalies.
 
 ---
 
@@ -74,8 +74,8 @@ Includes:
 ## 📊 Output Examples
 
 The simulation produces:
-- Histograms of time anomalies (\( \Delta t \))
-- Scatter plots of photon origin displacements (\( \Delta x \))
+- Histograms of time anomalies ($\Delta t$)
+- Scatter plots of photon origin displacements ($\Delta x$)
 - Statistical comparison to Standard Model baselines
 
 All plots can be saved as PNG/PDF for use in research figures or papers.
@@ -87,8 +87,9 @@ All plots can be saved as PNG/PDF for use in research figures or papers.
 This simulator is based on the paper:
 
 **"Investigating Superluminal Dark Photons and Their Influence on Higgs Boson Decay Through Time-of-Flight Anomalies
-"**  DOI: http://dx.doi.org/10.13140/RG.2.2.35920.52488
-*Antonios Valamontes, 2025*
+"**  
+- DOI: http://dx.doi.org/10.13140/RG.2.2.35920.52488
+- *Antonios Valamontes, 2025*
 
 It models how displaced vacuum gravitons (in the SGCV model) produce dark photon intermediaries that travel superluminally, leading to detectable collider anomalies.
 
