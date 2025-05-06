@@ -40,20 +40,43 @@ SGCV-Simulation/
 ├── SGCV-DarkPhoton-Simulator/
 │   ├── simulate_tof_anomalies.py         # Main simulation engine
 │   └── SGCV_DarkPhoton_Colab.ipynb       # Google Colab version
-├── src/
-│   ├── __init__.py
-│   ├── sgcv_simulation.py         <-- Core GEANT4-based simulation code
-│   ├── detector_geometry.gdml     <-- Simplified geometry for ATLAS/SHiP
-│   ├── event_generator.py         <-- Higgs → γγ + dark photon MC generation
-│   └── plot_utils.py              <-- Helper functions to visualize Δt, Δx
-├── data/
-│   └── example_results.csv        <-- Example Δt, Δx outputs
-├── docs/
-│   └── SGCV_Simulation_Manual.pdf <-- Short user manual + figure explanations
-└── figures/
-    ├── tof_anomaly_example.png   # Pending Reseale
-    ├── graviton_arc_diagram.png  # Pending Reseale
-    └── bullet_analogy.png        # Pending Reseale
+│   └── src/
+│       ├── __init__.py
+│       ├── sgcv_simulation.py         <-- Core GEANT4-based simulation code
+│       ├── detector_geometry.gdml     <-- Simplified geometry for ATLAS/SHiP
+│       ├── event_generator.py         <-- Higgs → γγ + dark photon MC generation
+│       └── plot_utils.py              <-- Helper functions to visualize Δt, Δx
+├──  data/
+│       └── example_results.csv        <-- Example Δt, Δx outputs
+├──  docs/
+│    └── SGCV_Simulation_Manual.pdf <-- Short user manual + figure explanations
+│    └──  figures/
+│         ├── tof_anomaly_example.png   # Pending Reseale
+│         ├── graviton_arc_diagram.png  # Pending Reseale
+│         └── bullet_analogy.png        # Pending Reseale
+├── SGCV-HiggsDecay-Simulator/
+├── CMakeLists.txt
+├── README.md
+│   └── src/
+│       ├── DetectorConstruction.cc
+│       ├── PrimaryGeneratorAction.cc
+│       ├── PhysicsList.cc
+│       ├── EventAction.cc
+│       ├── RunAction.cc
+│       ├── SteppingAction.cc
+│       ├── SGCVPhysicsExtension.cc  // Custom superluminal DP handling
+├────── include/
+│       ├── DetectorConstruction.hh
+│       ├── PrimaryGeneratorAction.hh
+│       ├── PhysicsList.hh
+│       ├── EventAction.hh
+│       ├── RunAction.hh
+│       ├── SteppingAction.hh
+│       ├── SGCVPhysicsExtension.hh
+├────── macros/
+│       └── run.mac
+└────── data/
+        └── output.root
 ```
 
 ---
