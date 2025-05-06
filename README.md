@@ -38,8 +38,8 @@ SGCV-Simulation/
 ├── requirements.txt
 ├── .gitignore
 ├── SGCV-DarkPhoton-Simulator/
-    ├── simulate_tof_anomalies.py         # Main simulation engine
-    └── SGCV_DarkPhoton_Colab.ipynb       # Google Colab version
+│   ├── simulate_tof_anomalies.py         # Main simulation engine
+│   └── SGCV_DarkPhoton_Colab.ipynb       # Google Colab version
 ├── src/
 │   ├── __init__.py
 │   ├── sgcv_simulation.py         <-- Core GEANT4-based simulation code
@@ -103,8 +103,14 @@ This simulator is based on the paper:
 
 **"Investigating Superluminal Dark Photons and Their Influence on Higgs Boson Decay Through Time-of-Flight Anomalies
 "**  
-- DOI: http://dx.doi.org/10.13140/RG.2.2.35920.52488
+- DOI: 10.13140/RG.2.2.35920.52488
 - *Antonios Valamontes, 2025*
+
+**"Experiment for the detection of superluminal propagating dark photons at CERN and their correlation with gravitons and the Higgs Boson H→γγ decay event
+"**  
+- DOI: 10.13140/RG.2.2.35357.83688
+- *Emmanouil N. Markoulakis and Antonios Valamontes, 2025*
+
 
 It models how displaced vacuum gravitons (in the SGCV model) produce dark photon intermediaries that travel superluminally, leading to detectable collider anomalies.
 
