@@ -126,11 +126,11 @@ This simulator is based on the paper:
 
 **"Investigating Superluminal Dark Photons and Their Influence on Higgs Boson Decay Through Time-of-Flight Anomalies
 "**  
-- DOI: [10.13140/RG.2.2.35920.52488](http://dx.doi.org/10.13140/RG.2.2.30811.89123)
+- DOI: [10.13140/RG.2.2.30811.89123](http://dx.doi.org/10.13140/RG.2.2.30811.89123)
 - *Antonios Valamontes, 2025*
 
 **"The Superluminal Graviton Condensate Vacuum: A Framework for Quantum Gravity and Unified Field Theory Paper #9858"**
-- DOI: 
+- DOI: [10.13140/RG.2.2.30811.89123](http://dx.doi.org/10.13140/RG.2.2.30811.89123)
 
 **"Experiment for the detection of superluminal propagating dark photons at CERN and their correlation with gravitons and the Higgs Boson H→γγ decay event
 "**  
