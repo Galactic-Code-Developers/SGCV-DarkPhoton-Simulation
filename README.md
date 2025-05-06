@@ -13,9 +13,9 @@ H → γ_DP → γ
 ```
 
 Where:
-- \( \gamma_{	ext{DP}} \): a transient dark photon traveling at \( v > c \),
+- $\gamma_{	ext{DP}}$: a transient dark photon traveling at $v > c$,
 - which converts into a Standard Model photon inside the detector,
-- producing measurable \( \Delta t \) and \( \Delta x \) anomalies.
+- producing measurable $\Delta t$) and $\Delta x$ anomalies.
 
 ---
 
@@ -67,7 +67,7 @@ Launch the ready-to-run notebook:
 
 Includes:
 - Preloaded parameters for SGCV validation
-- Visualization of \( \Delta t \) histograms and scatter plots
+- Visualization of $\Delta t$ histograms and scatter plots
 
 ---
 
