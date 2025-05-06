@@ -130,7 +130,8 @@ This simulator is based on the paper:
 
 **"The Superluminal Graviton Condensate Vacuum: A Framework for Quantum Gravity and Unified Field Theory Paper #9858"**
 - DOI: [10.13140/RG.2.2.30811.89123](http://dx.doi.org/10.13140/RG.2.2.30811.89123)
-
+- *Antonios Valamontes, 2025*
+- 
 **"Experiment for the detection of superluminal propagating dark photons at CERN and their correlation with gravitons and the Higgs Boson H→γγ decay event"**  
 - DOI: [10.2139/ssrn.4950704](https://dx.doi.org/10.2139/ssrn.4950704)
 - *Emmanouil N. Markoulakis and Antonios Valamontes, 2025*
