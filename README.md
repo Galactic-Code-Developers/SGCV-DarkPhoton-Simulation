@@ -149,7 +149,7 @@ It models how displaced vacuum gravitons (in the SGCV model) produce dark photon
 ## 📬 Contact
 
 - Antonios Valamontes — [avalamontes@kapodistrian.edu.gr](mailto:avalamontes@kapodistrian.edu.gr)
-
+- John Karantonis — [jkarantonis@kapodistrian.edu.gr](mailto:jkarantonis@kapodistrian.edu.gr)
 ---
 
 ## 📄 License
