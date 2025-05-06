@@ -7,7 +7,7 @@ This module sets up a GEANT4-based simulation environment to model
 superluminal dark photon (γ_DP) production and propagation under
 the Superluminal Graviton Condensate Vacuum (SGCV) hypothesis.
 
-Authors: Valamontes, John Karantonis (2025)
+Authors: Valamontes, John Karantonis, Markoulakis (2025)
 Version: 1.0.0
 """
 
