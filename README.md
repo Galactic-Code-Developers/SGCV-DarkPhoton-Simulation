@@ -101,7 +101,7 @@ python simulate_tof_anomalies.py
 
 Launch the ready-to-run notebook:
 
-[🔗 SGCV_DarkPhoton_Colab.ipynb](./SGCV_DarkPhoton_Colab.ipynb)
+[🔗 SGCV_DarkPhoton_Colab.ipynb](./SGCV_DarkPhoton_Colab.ipynb) 'Pending Update'
 
 Includes:
 - Preloaded parameters for SGCV validation
