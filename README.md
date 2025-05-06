@@ -51,9 +51,9 @@ SGCV-Simulation/
 ├──  docs/
 │    └── SGCV_Simulation_Manual.pdf <-- Short user manual + figure explanations
 │    └──  figures/
-│         ├── tof_anomaly_example.png   # Pending Reseale
-│         ├── graviton_arc_diagram.png  # Pending Reseale
-│         └── bullet_analogy.png        # Pending Reseale
+│         ├── tof_anomaly_example.png   # TBA
+│         ├── graviton_arc_diagram.png  # TBA
+│         └── bullet_analogy.png        # TBA
 ├── SGCV-HiggsDecay-Simulator/
 ├── CMakeLists.txt
 ├── README.md
