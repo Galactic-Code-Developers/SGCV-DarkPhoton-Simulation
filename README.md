@@ -9,7 +9,7 @@ A simulation framework for modeling exotic Higgs decay events involving superlum
 This project implements a theoretical particle simulation to test predictions from the SGCV framework:
 
 ```
-H → γ_DP → γ
+H → $γ_DP$ → γ
 ```
 
 Where:
