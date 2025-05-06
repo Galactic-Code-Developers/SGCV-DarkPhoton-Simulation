@@ -131,7 +131,7 @@ This simulator is based on the paper:
 
 **"Experiment for the detection of superluminal propagating dark photons at CERN and their correlation with gravitons and the Higgs Boson H→γγ decay event
 "**  
-- DOI: 10.13140/RG.2.2.35357.83688
+- DOI: [10.2139/ssrn.4950704](https://dx.doi.org/10.2139/ssrn.4950704)
 - *Emmanouil N. Markoulakis and Antonios Valamontes, 2025*
 
 
