@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Environment / Python virtualenvs
+.env
+.venv
+env/
+venv/
+
+# MacOS and system files
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+*.tmp
+.cache/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Colab-specific
+*.ipynb
