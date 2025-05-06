@@ -1,0 +1,15 @@
+# Core numerical and plotting libraries
+numpy>=1.23
+matplotlib>=3.7
+scipy>=1.10
+
+# Optional: CSV and data manipulation
+pandas>=2.0
+
+# For GEANT4 integration (assumed to be installed externally or via Docker)
+# You can remove the comment if using Python bindings for Geant4
+# geant4py>=10.7
+
+# Google Colab compatibility
+ipython>=8.0
+notebook>=7.0
