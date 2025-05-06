@@ -32,13 +32,28 @@ Where:
 ## 📁 Repository Structure
 
 ```
-SGCV-DarkPhoton-Simulator/
-├── simulate_tof_anomalies.py         # Main simulation engine
-├── SGCV_DarkPhoton_Colab.ipynb       # Google Colab version
-├── requirements.txt                  # Dependency list
-├── LICENSE                           # MIT License
-├── .gitignore                        # Files ignored by Git
-└── README.md                         # Project documentation
+SGCV-Simulation/
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── .gitignore
+├── SGCV-DarkPhoton-Simulator/
+    ├── simulate_tof_anomalies.py         # Main simulation engine
+    └── SGCV_DarkPhoton_Colab.ipynb       # Google Colab version
+├── src/
+│   ├── __init__.py
+│   ├── sgcv_simulation.py         <-- Core GEANT4-based simulation code
+│   ├── detector_geometry.gdml     <-- Simplified geometry for ATLAS/SHiP
+│   ├── event_generator.py         <-- Higgs → γγ + dark photon MC generation
+│   └── plot_utils.py              <-- Helper functions to visualize Δt, Δx
+├── data/
+│   └── example_results.csv        <-- Example Δt, Δx outputs
+├── docs/
+│   └── SGCV_Simulation_Manual.pdf <-- Short user manual + figure explanations
+└── figures/
+    ├── tof_anomaly_example.png   # Pending Reseale
+    ├── graviton_arc_diagram.png  # Pending Reseale
+    └── bullet_analogy.png        # Pending Reseale
 ```
 
 ---
